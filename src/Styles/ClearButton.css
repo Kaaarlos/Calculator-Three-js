@@ -1,0 +1,19 @@
+.clear-button{
+  height: 80px;
+  font-size: 1.6em;
+  display: flex;
+  flex: 1;
+  background-color: #803962;
+  margin-top: 4px;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  color: aliceblue;
+  border: 2px solid rgb(73, 1, 52);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.clear-button:hover{
+  background-color: #ebb000;
+}
